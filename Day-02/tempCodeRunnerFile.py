@@ -1,1 +1,0 @@
-print(tup.count(2))
